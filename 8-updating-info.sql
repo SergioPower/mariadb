@@ -19,4 +19,9 @@ WHERE id = 4;
 
 UPDATE `stations`
 SET name = 'Martín Carrera'
-WHERE id = 5
+WHERE id = 5;
+
+
+UPDATE `lines`
+SET name = 'Línea 2'
+WHERE color = 'Azul';

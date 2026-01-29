@@ -1,15 +1,15 @@
 USE metro_cdmx;
 
 INSERT INTO `lines` (name, color) VALUES
-('lÍNEA 1', 'Rosa'),
-('LÍNEA 2', 'Azul'),
-('LÍNEA 3', 'Verde olivo'),
-('LÍNEA 4', 'Cian'),
-('LÍNEA 5', 'Amarillo'),
-('LÍNEA 6', 'Rojo'),
-('LÍNEA 7', 'Naranja'),
-('LÍNEA 8', 'Verde'),
-('LÍNEA 9', 'Café'),
-('LÍNEA A', 'Morado'),
-('LÍNEA B', 'Verde y gris'),
-('LÍNEA 12', 'Dorado');
+('Linea 1', 'Rosa'),
+('Linea 2', 'Azul'),
+('Linea 3', 'Verde olivo'),
+('Linea 4', 'Cian'),
+('Linea 5', 'Amarillo'),
+('Linea 6', 'Rojo'),
+('Linea 7', 'Naranja'),
+('Linea 8', 'Verde'),
+('Linea 9', 'Café'),
+('Linea A', 'Morado'),
+('Linea B', 'Verde y gris'),
+('Linea 12', 'Dorado');
